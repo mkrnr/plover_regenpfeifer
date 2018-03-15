@@ -1,0 +1,2 @@
+include tox.ini
+include plover_regenpfeifer/dictionaries/*.json
