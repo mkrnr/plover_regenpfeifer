@@ -1,2 +1,2 @@
 include tox.ini
-include plover_regenpfeifer/dictionaries/*.json
+include plover_german_regenpfeifer/dictionaries/*.json
