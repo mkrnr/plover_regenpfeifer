@@ -1,5 +1,5 @@
 ==========================
-Plover German Regenpfeifer
+Plover Regenpfeifer
 ==========================
 
 Regenpfeifer (German stenography system) support for Plover.
@@ -13,7 +13,7 @@ To install the cloned git repository, you can run the following command:
 
 .. code:: powershell
 
-	.\plover_console.exe -s plover_plugins install <path-to-regenpfeifer-git-repo>
+	.\plover_console.exe -s plover_plugins install <path-to-plover-regenpfeifer-git-repo>
 
 
 Special Thanks
