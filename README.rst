@@ -4,7 +4,7 @@ Plover Regenpfeifer
 
 Regenpfeifer (German stenography system) support for Plover.
 
-Currently under development.
+For now it only remaps -Z to -N but it is planned to add orthography rules in the future.
 
 Installation
 ------------
