@@ -11,9 +11,17 @@ Installation
 
 To install the cloned git repository, you can run the following command:
 
+Windows
+
 .. code:: powershell
 
 	.\plover_console.exe -s plover_plugins install <path-to-plover-regenpfeifer-git-repo>
+
+Mac
+
+.. code:: bash
+
+	/Applications/Plover.app/Contents/MacOS/Plover -s plover_plugins install <path-to-plover-regenpfeifer-git-repo>
 
 
 Special Thanks
