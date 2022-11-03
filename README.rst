@@ -4,7 +4,9 @@ Plover Regenpfeifer
 
 Regenpfeifer (German stenography system) support for Plover.
 
-For now it only remaps -Z to -N but it is planned to add orthography rules in the future.
+For now it only remaps the top S- to Z- but it is planned to add orthography rules in the future.
+
+In the versions lower than 1.0.0, -Z was remapped to -N but this was reverted as described on https://stenoblog.com/regenpfeifer-layout-update/.
 
 Installation
 ------------
@@ -33,3 +35,4 @@ License
 -------
 
 This plugin is licensed under GPLv3, or any later version.
+
