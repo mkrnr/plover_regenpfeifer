@@ -200,4 +200,4 @@ KEYMAPS = {
 }
 
 DICTIONARIES_ROOT = 'asset:plover_regenpfeifer:dictionaries'
-DEFAULT_DICTIONARIES = ('regenpfeifer_user.json', 'regenpfeifer_main.json')
+DEFAULT_DICTIONARIES = ('regenpfeifer_main.json')
