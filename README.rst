@@ -8,10 +8,12 @@ For now it only remaps the top S- to Z- but it is planned to add orthography rul
 
 In the versions lower than 1.0.0, -Z was remapped to -N but this was reverted as described on https://stenoblog.com/regenpfeifer-layout-update/.
 
-Recommended Usage
-------------
+The dictionary is generated with the corresponding version of https://github.com/mkrnr/regenpfeifer using the word list from https://github.com/mkrnr/wortformliste.
 
-Since the regenpfeifer dictionary will change in the future, it it highy recommended to create a separate dictionary with your own mappings.
+Recommended Usage
+-----------------
+
+Since the regenpfeifer dictionary will change in the future, it it highly recommended to create a separate dictionary with your own mappings.
 
 
 Installation
