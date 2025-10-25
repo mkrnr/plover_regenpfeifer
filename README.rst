@@ -2,13 +2,13 @@
 Plover Regenpfeifer
 ==========================
 
-Regenpfeifer (German stenography system) support for Plover.
+Regenpfeifer (German stenography system) support for `Plover <https://github.com/openstenoproject/plover>`__.
 
 For now it only remaps the top S- to Z- but it is planned to add orthography rules in the future.
 
-In the versions lower than 1.0.0, -Z was remapped to -N but this was reverted as described on https://stenoblog.com/regenpfeifer-layout-update/.
+In the versions lower than 1.0.0, -Z was remapped to -N but this was reverted as described in `this blog post <https://stenoblog.com/regenpfeifer-layout-update/>`__.
 
-The dictionary is generated with the corresponding version of https://github.com/mkrnr/regenpfeifer using the word list from https://github.com/mkrnr/wortformliste.
+The dictionary is generated using the `regenpfeifer repo <https://github.com/mkrnr/regenpfeifer>`__ using `this word list <https://github.com/mkrnr/wortformliste>`__.
 
 Recommended Usage
 -----------------
@@ -19,19 +19,8 @@ Since the regenpfeifer dictionary will change in the future, it it highly recomm
 Installation
 ------------
 
-To install the cloned git repository, you can run the following command:
 
-Windows
-
-.. code:: powershell
-
-	.\plover_console.exe -s plover_plugins install <path-to-plover-regenpfeifer-git-repo>
-
-Mac
-
-.. code:: bash
-
-	/Applications/Plover.app/Contents/MacOS/Plover -s plover_plugins install <path-to-plover-regenpfeifer-git-repo>
+The plugin can be installed via the Plover Plugins Manager.
 
 
 Special Thanks
